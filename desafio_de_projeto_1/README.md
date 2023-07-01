@@ -1,4 +1,4 @@
-# Análise de BI básica sobre o "Finance" 
+# Analisando Dados com meu Primeiro Projeto no Power BI" 
 
 Desafio de Projeto da **[Formação PowerBI Analyst](https://web.dio.me/track/ae00b551-c67c-43fa-8f2a-3591be061982)**
 
