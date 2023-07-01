@@ -11,6 +11,6 @@ Desafio de Projeto da **[Formação PowerBI Analyst](https://web.dio.me/track/ae
 - **Gráfico de pizza:** Lucro por segmento 
 
 
-Apresentação do projeto em [PDF]()
+Apresentação do projeto em [PDF](https://github.com/83Rafa/power_bi_analyst/blob/main/desafio_de_projeto_1/relatorio_finances.pdf)
 
 Apresentação do projeto no formato [PBIT](https://github.com/83Rafa/power_bi_analyst/blob/main/desafio_de_projeto_1/analise_finance.pbit)
