@@ -13,4 +13,4 @@ Desafio de Projeto da **[Formação PowerBI Analyst](https://web.dio.me/track/ae
 
 Apresentação do projeto em [PDF]()
 
-Apresentação do projeto no formato [PowerBI]()
+Apresentação do projeto no formato [PBIT](https://github.com/83Rafa/power_bi_analyst/blob/main/desafio_de_projeto_1/analise_finance.pbit)
