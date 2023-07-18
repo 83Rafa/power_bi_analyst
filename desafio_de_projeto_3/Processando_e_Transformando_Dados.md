@@ -8,6 +8,9 @@
   <img src="images/Power-BI.jpg" width="1000" height="280">
 </div>
 <div>
+    <p>Acesse o arquivo <a href="https://github.com/83Rafa/power_bi_analyst/blob/main/desafio_de_projeto_3/azure_company.pbix">Azure Company</a>.pbix</p>
+</div>
+<div>
     <h3>DIO - Desafio de Projeto</h3>
     <p><strong>Objetivo Geral:</strong></p>
     <ul>
@@ -41,6 +44,8 @@
   <img src="images/relatorio.png">
     <h3>Relatório Mobile</h3>
   <img src="images/relatorio_mobile_full.png">
+    <h3>Publicação do Relatório</h3>
+  <img src="images/relatorio_publicado.png">
 </div>
 
 <div>
