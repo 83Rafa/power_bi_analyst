@@ -8,4 +8,4 @@ Desafio de Projeto da **[Formação PowerBI Analyst - DIO](https://web.dio.me/tr
 
 - Reprodução do **Mapa Visual 2:** Com a análise da soma de lucro *(profit)* por país 
 
-- Criação do **Mapa Visual 3** contendo um *Grafico de Pizza* e 2 mapas de Geolocalização para apresentar o Lucro por segmento e a Quantidade de Vendas por segmento. 
+- Criação do **Mapa Visual 3** contendo um *Grafico de Pizza* e 2 mapas de Geolocalização para apresentar o Lucro por segmento e a quantidade de vendas por segmento. 
