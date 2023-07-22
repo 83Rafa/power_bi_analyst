@@ -22,7 +22,8 @@
     <hr>
     <h3>Na visualização prévia foi possível encontra algumas mudaças necessárias:</h3>
     <ol>
-        <li>O Employee James E Borg possuia valor <i>nulo</i> para <i>Super_ssn</i>. Observando os departamentos foi possível idenfificar que o dado não foi preenchido porque o próprio funcionário é o gerente.</li>
+        <li>Os funcionários <i>James E Borg</i> e <i></i>Franklin T Wong</i> possuiam valores nulos para <i>Super_ssn</i>. Observando seus respectivos departamentos foi possível idenfificar que os dados não foram preenchidos porque os mesmos são os gerentes.</li>
+        <li><i>John B Smith</i> também não possuia dados sobre seu gerente. Ele trabalha no departamento <i>Research</i>, cujo gerente é <i>Franklin T Wong</i>. Sendo assim, o dado faltante foi corrigido.</li>
         <li>Também já na pré-visualização foi possivel encontrar mais um ponto em que uma atualização foi requisitada. A junção de colunas para que os nomes dos funcionários ficassem em uma única coluna. Através da função <i>Mesclar Colunas</i> foi possível juntar Fname, Minit e Last name em uma coluna <i>Employee_name</i>.</li>
     </ol>
     <h3>Analisando os dados mais profundamente foi possível realizar as seguintes mudanças:</h3>
