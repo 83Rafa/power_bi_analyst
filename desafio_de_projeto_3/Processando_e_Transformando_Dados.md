@@ -34,10 +34,10 @@
     </ul>
     
 <p>Os tipos dos dados foram atualizados, e.x. <i>Salary</i> de Números Inteiros agora possui Número Decimal Fixo.</p>
-<p>À partir das colunas "Datas", com a função <i>Data</i> foi possível separar e criar colunas para dia, mês e ano. O mesmo para as colunas de endereço. Através da função <i>Dividir Colunas por Delimitador</i>, Endereço e UF foram separados em colunas.</p>
+<p>À partir das colunas "Datas", com a função <i>Data</i> foi possível separar e criar colunas para dia, mês e ano. O mesmo para as colunas de endereço. Através da função <i>Dividir Colunas por Delimitador</i>. Endereço e UF foram separados em colunas.</p>
     <p>A tabela <strong>Employee/Department</strong> foi criada através da mescla das respectivas tabelas. As colunas redundantes foram removidas. </p>
     <p>A tabela, a <strong>Department/Location</strong> foi gerada à partir da mescla das tabelas <i>Department</i> e <i>Dept_location</i>. A utilização da função de <i>"Mescla"</i> para essa situação se deu pela diferença de propósito em relação a função <i>"Atribuir"</i>. A grande diferenca entre as duas é que a função Mesclar no Power BI é usada para combinar duas ou mais tabelas com base em colunas relacionadas. É semelhante a um JOIN em SQL. Enquanto a função Atribuir permite que se atribua usuários a funções (neste caso: departamento à localizações), seja individualmente ou em grupo.</p>
-    <p>Também foi possível a criação de uma terceira tabela <strong>Project Working Hours</strong> à partir da junção da tabela <i>Project</i>com a tabela <i>works_on</i> para facilitar a análise de horas trabalhadas em cada projeto.</p>
+    <p>Também foi possível a criação de uma terceira tabela <strong>Project Working Hours</strong> à partir da junção da tabela <i>Project</i> com a tabela <i>works_on</i> para facilitar a análise de horas trabalhadas em cada projeto.</p>
 </div>
 
 <div align="center">
