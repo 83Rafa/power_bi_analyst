@@ -5,7 +5,7 @@
     <h1>Star Schema para Cenários de Universidade</h1>
 </div>
 <div align="center">
-  <img src="desafio_de_projeto_4/images/star_schema.png">
+  <img src="images/star_schema.png">
 </div>
 
 <div>
@@ -22,9 +22,9 @@
 
 <div align="center">
     <h3>Modelo Universidade</h3>
-    <img src="desafio_de_projeto_4/images/der_universidade_referencia.png">
+    <img src="images/der_universidade_referencia.png">
     <h3>Star Schema</h3>
-    <img src="desafio_de_projeto_4/images/universidade_star_schema.png">
+    <img src="images/universidade_star_schema.png">
     <br>
   <hr>
 </div>
