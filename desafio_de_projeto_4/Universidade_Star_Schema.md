@@ -2,7 +2,7 @@
     <figure>
     <img src="https://hermes.dio.me/tracks/b9b2973e-b2be-4bf0-b6b2-57a6c8354a95.png" class="logo" width="80" align="right">
   </figure>
-    <h1>Star Schema para Cenários de Universidade</h1>
+    <h1>Star Schema para Cenário de Universidade</h1>
 </div>
 <div align="center">
   <img src="images/star_schema.png">
@@ -25,6 +25,7 @@
     <img src="images/der_universidade_referencia.png">
     <h3>Star Schema</h3>
     <img src="images/universidade_star_schema.png">
+    <p text-align="right">Acesse o <a href="https://github.com/83Rafa/power_bi_analyst/blob/main/desafio_de_projeto_4/universidade-star-schema.mwb">arquivo.wmb</a></p>
     <br>
   <hr>
 </div>
