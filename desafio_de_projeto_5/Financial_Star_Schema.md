@@ -17,9 +17,9 @@
       <li>D_Calendário – Criada por DAX com calendar(): Date, Day of the Week, Day Of The Week 2, Month Number, Week Number e Year.</li>
       <li>F_Vendas (SK_ID , ID_Produto, Produto, Units Sold, Sales Price, Discount Band, Segment, Country, Salers, Profit, Date (campos))</li>
     </ul>
-  <hr>
   <p>O relacionamento entre a tabela <strong>f_vendas</strong> e a tabela <strong>d_calendar</strong>foi gerado através da mescla, em ambas tabelas, das colunas "Product", "Country", "Segment" e "Sales", que gerou a coluna "Mescla - PCSS", que se tornou denominador comum para a relatção entre as tabelas.</p>
 </div>
+  <hr>
 
 <div align="center">
     <h3>Financial Star Schema</h3>
