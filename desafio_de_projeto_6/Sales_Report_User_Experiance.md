@@ -27,11 +27,11 @@
 
 <div align="center">
     <h3>Home</h3>
-    <img src="images/home.png" widght='800'>
+    <img src="images/home.png" width="1000">
     <h3>Lucro</h3>
-    <img src="images/lucro.png" widght='800'>
+    <img src="images/lucro.png" width="1000">
     <h3>Vendas</h3>
-    <img src="images/vendas.png" widght='800'>
+    <img src="images/vendas.png" width="1000">
     <p>Acesse o <a href="https://github.com/83Rafa/power_bi_analyst/blob/main/desafio_de_projeto_6/Sales%20Report%20User%20Experiance.pbix">arquivo.pbix</a></p>
     <br>
   <hr>
