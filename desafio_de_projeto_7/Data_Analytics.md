@@ -22,19 +22,12 @@
       <li>Visuais de compartimentação dos dados</li>
      </ul>
 </div>
-<div align="center">
-    <h3>Main</h3>
-    <a href='Images/main.png'>
-        <img src="Images/main.png" width="400">
-    </a>
-    <h3>Detalhes</h3>
-    <a href='Images/details.png'>
-        <img src="Images/details.png" width="400">
-    </a>
-    <h3>Top Números</h3>
-    <a href='Images/top_numbers.png'>
-        <img src="Images/top_numbers.png" width="400">
-    </a>
+<div align='center'>
+    <p>
+        <a href='Images/main.png'><img src="Images/main.png" width="300"></a>
+        <a href='Images/details.png'><img src="Images/details.png" width="300"></a>
+        <a href='Images/top_numbers.png'><img src="Images/top_numbers.png" width="300"></a>
+    </p>
     <p>Acesse o <a href="https://github.com/83Rafa/power_bi_analyst/new/main/desafio_de_projeto_7">arquivo.pbix</a></p>
     <br>
 </div>
