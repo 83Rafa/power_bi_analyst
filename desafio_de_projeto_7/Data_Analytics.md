@@ -4,16 +4,6 @@
   </figure>
     <h1>Projeto de Data Analytics com Power BI</h1>
 </div>
-<div align="center">
-    <img src="images/main.png" width="600">
-    <span> Main </span>
-    <img src="images/details.png" width="600">
-    <span> Detalhes </span>
-    <img src="images/top_numbers.png" width="600">
-    <span> Top Números </span>
-    <p>Acesse o <a href="https://github.com/83Rafa/power_bi_analyst/new/main/desafio_de_projeto_7)">arquivo.pbix</a></p>
-    <br>
-</div>
 <div>
     <h4>DIO - Desafio de Projeto</h4>
     <br>
@@ -31,6 +21,22 @@
       <li>Visuais de agrupamentos de dado</li>
       <li>Visuais de compartimentação dos dados</li>
      </ul>
+</div>
+<div align="center">
+    <h3>Main</h3>
+    <a href='Images/main.png'>
+        <img src="Images/main.png" width="400">
+    </a>
+    <h3>Detalhes</h3>
+    <a href='Images/details.png'>
+        <img src="Images/details.png" width="400">
+    </a>
+    <h3>Top Números</h3>
+    <a href='Images/top_numbers.png'>
+        <img src="Images/top_numbers.png" width="400">
+    </a>
+    <p>Acesse o <a href="https://github.com/83Rafa/power_bi_analyst/new/main/desafio_de_projeto_7">arquivo.pbix</a></p>
+    <br>
 </div>
   <hr>
 
