@@ -24,7 +24,7 @@
         <a href='Images/top_numbers.png'><img src="images/top_numbers.png" width="300"></a>
     </p>
     <h3>Relatório Dinâmico</h3>
-    <a href='Images/relatorio_dinamico.png'><img src="images/relatorio_dinamico.png" width="600"></a>
+    <a href='images/relatorio_dinamico.png'><img src="images/relatorio_dinamico.png" width="600"></a>
     <p>Acesse o <a href="https://github.com/83Rafa/power_bi_analyst/blob/main/desafio_de_projeto_8/Relatorios_Dinamicos_Com_Parametros.pbix">arquivo.pbix</a></p>
     <br>
 </div>
