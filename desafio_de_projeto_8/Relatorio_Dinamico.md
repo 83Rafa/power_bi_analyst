@@ -19,9 +19,9 @@
 </div>
 <div align='center'>
     <p>
-        <a href='Images/main.png'><img src="images/main.png" width="300"></a>
-        <a href='Images/details.png'><img src="images/details.png" width="300"></a>
-        <a href='Images/top_numbers.png'><img src="images/top_numbers.png" width="300"></a>
+        <a href='images/main.png'><img src="images/main.png" width="300"></a>
+        <a href='images/details.png'><img src="images/details.png" width="300"></a>
+        <a href='images/top_numbers.png'><img src="images/top_numbers.png" width="300"></a>
     </p>
     <h3>Relatório Dinâmico</h3>
     <a href='images/relatorio_dinamico.png'><img src="images/relatorio_dinamico.png" width="600"></a>
