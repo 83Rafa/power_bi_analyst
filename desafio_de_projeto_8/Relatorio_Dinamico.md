@@ -13,7 +13,7 @@
   <ul>
       <li><strong>Primeira visão:</strong> parâmetro com base em categorias</li>
       <li><strong>Segunda visão:</strong> parâmetros com base em valores (profit, sales, ou outros)</li>
-      <li>Siguir a mesma estilização do relatório</li>
+      <li>Seguir a mesma estilização do relatório</li>
       <li>Criar uma história para apresentar essa visão sobre os dados</li>
      </ul>
 </div>
